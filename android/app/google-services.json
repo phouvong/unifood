@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "560099164909",
+    "project_id": "uni-food-delivery",
+    "storage_bucket": "uni-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560099164909:android:1e2cb81e53a5b5ea0942e4",
+        "android_client_info": {
+          "package_name": "com.unilaos.frider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOqPTx1xZy9TqQDmKyIUyeCJr7Gm9p5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560099164909-gud86l2l1ckdq6qemq9n1af530tp2ves.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unilaos.fuseri"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560099164909:android:121db926854287120942e4",
+        "android_client_info": {
+          "package_name": "com.unilaos.fuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOqPTx1xZy9TqQDmKyIUyeCJr7Gm9p5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560099164909-gud86l2l1ckdq6qemq9n1af530tp2ves.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unilaos.fuseri"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560099164909:android:47a713c447449ecf0942e4",
+        "android_client_info": {
+          "package_name": "com.unilaos.fvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOqPTx1xZy9TqQDmKyIUyeCJr7Gm9p5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560099164909-ivm8ot2pdja7vdjkc7tqhp3gvjbbro89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560099164909-gud86l2l1ckdq6qemq9n1af530tp2ves.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unilaos.fuseri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
